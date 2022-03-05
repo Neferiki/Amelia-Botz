@@ -1,28 +1,28 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
+     "namalu" : "ReyGeano",
+     "nomerlu": "6285232604817",
+     "namabot": "Rey Botz",
+     "nomerbot": "6285232604817",
      "gender" : "Female",
-     "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
-     "joinGcExtream": true,
+     "copyright" : "It'sMe•KOKO•REY",
+     "namaDocument": "REY Botz",
+     "joinGcExtream": false,
 
-     "publik": true,
-     "forwarding": false,
-     "Loading": false,
+     "publik": false,
+     "forwarding": true,
+     "Loading": true,
      "antitroli" : false,
      
      "autovn" : false,
      "autosticker" : false,
      "autorespon" : false,
      "autotyping" : false,
-     "autoread" : true,
+     "autoread" : false,
      "autoblockcmd" : false, 
-     "autobio" : true,
+     "autobio" : false,
      "autoLevel" : true,
-     "AutoClearChat": true,
+     "AutoClearChat": false,
      "totalForward" : 1000000,
      "explain": false,
      "jumlahTroli": 2022,
@@ -40,7 +40,7 @@
      },
      
      "antiPrivateChat": {
-     "chatBot" : false,
+     "chatBot" : true,
      "teksChat" : "Gada menu"
      },
      
@@ -52,19 +52,19 @@
      },
      
      "setPrefix": {
-     "prefix": "!",
-     "multi": true,
+     "prefix": ".",
+     "multi": false,
      "onepref" : false,
      "nopref" : false
      },
                                                                                                                                                                                                                                    
      "setWelcome": {
-     "autoWelcome": false,
+     "autoWelcome": true,
      "welcomeType": "type3",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
      
-     "setMenu": "document",    
+     "setMenu": "katalog",    
       "setBc":  "lokasi",  
      "setReply": "web",  
      "setQuoted": "ftoko",
