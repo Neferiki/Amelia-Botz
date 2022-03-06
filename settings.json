@@ -9,9 +9,9 @@
      "namaDocument": "REY Botz",
      "joinGcExtream": false,
 
-     "publik": false,
+     "publik": true,
      "forwarding": true,
-     "Loading": true,
+     "Loading": false,
      "antitroli" : false,
      
      "autovn" : false,
@@ -40,8 +40,8 @@
      },
      
      "antiPrivateChat": {
-     "chatBot" : true,
-     "teksChat" : "Gada menu"
+     "chatBot" : false,
+     "teksChat" : "lu spa kntll?"
      },
      
      "setPayment": {
@@ -64,7 +64,7 @@
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
      
-     "setMenu": "katalog",    
+     "setMenu": "lokasi",    
       "setBc":  "lokasi",  
      "setReply": "web",  
      "setQuoted": "ftoko",
