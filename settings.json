@@ -16,7 +16,7 @@
      
      "autovn" : false,
      "autosticker" : false,
-     "autorespon" : false,
+     "autorespon" : true,
      "autotyping" : false,
      "autoread" : false,
      "autoblockcmd" : false, 
